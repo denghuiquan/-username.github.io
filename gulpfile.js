@@ -53,20 +53,20 @@ const swigOpts = {
         menus: [
             {
                 "name": " Home (current)",
-                "link": "https://zce.me/pages-boilerplate/index.html",
+                "link": "https://denghuiquan.github.io/index.html",
                 "icon": 'aperture'
             },
             {
                 "name": "Features",
-                "link": "https://zce.me/pages-boilerplate/features.html"
+                "link": "https://denghuiquan.github.io/features.html"
             },
             {
                 "name": "About",
-                "link": "https://zce.me/pages-boilerplate/about.html"
+                "link": "https://denghuiquan.github.io/about.html"
             },
             {
                 "name": "Contact",
-                "link": "https://zce.me/pages-boilerplate/#",
+                "link": "https://denghuiquan.github.io/#",
                 "children": [
                     {
                         "name": "Twitter",
@@ -81,7 +81,7 @@ const swigOpts = {
                     },
                     {
                         "name": "About",
-                        "link": "https://github.com/zce"
+                        "link": "https://github.com/denghuiquan"
                     }
                 ]
             }
