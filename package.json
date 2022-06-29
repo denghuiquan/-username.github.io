@@ -106,5 +106,8 @@
       "stylelint-config-standard-scss",
       "stylelint-config-prettier-scss"
     ]
+  },
+  "resolutions": {
+    "gift": "^0.10.2"
   }
 }
